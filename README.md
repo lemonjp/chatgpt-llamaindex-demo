@@ -16,7 +16,7 @@ or you have a path to python3
 pip install -r requirements.txt
 ```
 
-## Excute
+## Execute
 
 ```
 python3 app.py
